@@ -1,0 +1,11 @@
+Thumbs.db
+.DS_Store
+tmp/
+*_old.*
+*_backup.*
+*.*_old
+*_old
+*_backup
+*.*_backup
+.vs
+Midi_Foot_conrl/Debug/
