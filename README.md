@@ -37,6 +37,6 @@ Interlnal delay for knob reliably protect from twice press on knobs.
 
 ## hc595 configuration outout 
 SPI Led(1)---Digit2---Digit1 
-For corrention work Midi interface requered 8MHz crystall oscillator blocking two 20-22pF capacitors.
+For correсt work Midi interface requered 8MHz crystall oscillator blocking two 20-22pF capacitors.
 
 Write and debug in Atmel Studio 7.0, 7.2
